@@ -30,4 +30,6 @@ $ git branch # see all branch and what branch i am in
 $ git branch [new branch] # make new branch
 
 $ git checkout [branch name] # chenge workout brnch
+
+$ git branch -d [branch name] # delete branch
 ```
