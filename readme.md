@@ -19,5 +19,11 @@ $ git commit -m "{massage}" # commit changes
 
 $ git log # see all commits
 
+$ git diff HEAD # see diff of chenges file
+
+$ git reset [file] #unstage my file
+
+$ git checkout -- [file] # dont chnge my file and set it as last commit
+
 
 ```
