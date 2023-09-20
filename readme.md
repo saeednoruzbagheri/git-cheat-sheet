@@ -25,5 +25,9 @@ $ git reset [file] #unstage my file
 
 $ git checkout -- [file] # dont chnge my file and set it as last commit
 
+$ git branch # see all branch and what branch i am in 
 
+$ git branch [new branch] # make new branch
+
+$ git checkout [branch name] # chenge workout brnch
 ```
